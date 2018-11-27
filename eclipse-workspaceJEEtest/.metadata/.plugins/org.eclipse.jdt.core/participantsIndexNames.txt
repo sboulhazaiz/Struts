@@ -1,5 +1,11 @@
 INDEX VERSION 1.131
+C:\Users\rdepa\eclipse-workspaceJEEtest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1412717158.index
+\TutorialStruts\src
 C:\Users\rdepa\eclipse-workspaceJEEtest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3182659052.index
 \GestionContact\src
+C:\Users\rdepa\eclipse-workspaceJEEtest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3618428309.index
+\TutorialStruts\src
 C:\Users\rdepa\eclipse-workspaceJEEtest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2937948566.index
+\TutorialStruts\src
+C:\Users\rdepa\eclipse-workspaceJEEtest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3954826502.index
 \TutorialStruts\src

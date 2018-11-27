@@ -5,7 +5,7 @@ pageEncoding="ISO-8859-1"%>
 <%@ taglib prefix="nested" uri="http://struts.apache.org/tags-nested" %>
 <html:html>
 <head>
-<title><bean:message key="add.contact"/></title>
+<title><bean:message key="contact.add"/></title>
 <html:base/>
 </head>
 <body bgcolor="white">

@@ -27,8 +27,8 @@ then the container can load the servlet at anytime during startup -->
 </servlet>
 <!-- Action Servlet Mapping -->
 <servlet-mapping>
-<servlet-name>action</servlet-name>
-<url-pattern>*.do</url-pattern>
+	<servlet-name>action</servlet-name>
+	<url-pattern>*.do</url-pattern>
 </servlet-mapping>
 <!-- declaring a JDBC data source -->
 <resource-ref>
